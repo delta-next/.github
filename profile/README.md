@@ -1,8 +1,8 @@
 # The Freem Programming Language
 
-| Label                                                                                               | Description |
-|:----------------------------------------------------------------------------------------------------|:------------|
-|<img src="https://img.shields.io/badge/Freem-official-yellow?link=https://github.com/freemlang">     ||
-|<img src="https://img.shields.io/badge/Freem-stable-green?link=https://github.com/freemlang">        ||
-|<img src="https://img.shields.io/badge/Freem-beta-blue?link=https://github.com/freemlang">           ||
-|<img src="https://img.shields.io/badge/Freem-deprecated-lightgray?link=https://github.com/freemlang">||
+| Label                                                                                                        | Description |
+|:-------------------------------------------------------------------------------------------------------------|:------------|
+|<a href="https://github.com/freemlang"><img src="https://img.shields.io/badge/Freem-official-yellow"></a>     ||
+|<a href="https://github.com/freemlang"><img src="https://img.shields.io/badge/Freem-stable-green"></a>        ||
+|<a href="https://github.com/freemlang"><img src="https://img.shields.io/badge/Freem-beta-blue"></a>           ||
+|<a href="https://github.com/freemlang"><img src="https://img.shields.io/badge/Freem-deprecated-lightgray"></a>||
