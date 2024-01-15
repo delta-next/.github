@@ -1,5 +1,7 @@
 # The Freem Programming Language
 
+<a href="https://github.com/freemlang/freem">Main Repository</a>
+
 <table>
   <tr>
     <th align=middle>Type</th>
