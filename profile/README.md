@@ -1,1 +1,1 @@
-# The Freem Programming Language
+# Project FR Next Generation Programming Language
